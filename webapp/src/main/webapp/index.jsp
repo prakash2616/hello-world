@@ -1,2 +1,2 @@
-<h1> Hello, Ndar Saraswathi COllege !!! </h1>
+<h1> Hello, Thiagarajar College !!! </h1>
 
